@@ -1,5 +1,4 @@
 import projectsJson from "./projects.json";
-import "./projects.css";
 import { singleProject } from "./singleProject";
 
 export const projects = () => {
