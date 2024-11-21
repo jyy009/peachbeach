@@ -1,0 +1,15 @@
+.details {
+  display: none;
+  background-color: #f4f4f4;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+.toggle-details {
+  text-decoration: none;
+  color: blue;
+  cursor: pointer;
+}
+.toggle-details:hover {
+  text-decoration: underline;
+}
